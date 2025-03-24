@@ -1,0 +1,76 @@
+Voici une liste des symboles et caractères spéciaux couramment utilisés en programmation, avec leurs noms en français et en anglais :
+  
+1. Parenthèses, Crochets et Accolades
+Symbole	Nom en français	Nom en anglais
+()	Parenthèses	Parentheses
+[]	Crochets	Square brackets
+{}	Accolades	Curly braces
+<>	Chevrons	Angle brackets
+2. Opérateurs Arithmétiques
+Symbole	Nom en français	Nom en anglais
++	Signe plus	Plus sign
+-	Signe moins	Minus sign
+*	Astérisque (Multiplication)	Asterisk
+/	Barre oblique (Division)	Slash
+%	Modulo	Modulo
+3. Opérateurs de Comparaison
+Symbole	Nom en français	Nom en anglais
+=	Signe égal	Equal sign
+==	Double égal (Comparaison)	Double equals
+===	Triple égal (Strictement égal)	Triple equals
+!=	Différent	Not equal
+!==	Strictement différent	Strict not equal
+>	Supérieur	Greater than
+<	Inférieur	Less than
+>=	Supérieur ou égal	Greater than or equal
+<=	Inférieur ou égal	Less than or equal
+4. Opérateurs Logiques
+Symbole	Nom en français	Nom en anglais
+&&	ET logique	Logical AND
+`		`
+!	NON logique	Logical NOT
+5. Opérateurs d’Assignation
+Symbole	Nom en français	Nom en anglais
++=	Addition et assignation	Add and assign
+-=	Soustraction et assignation	Subtract and assign
+*=	Multiplication et assignation	Multiply and assign
+/=	Division et assignation	Divide and assign
+%=	Modulo et assignation	Modulo and assign
+6. Opérateurs de Bits (Bitwise)
+Symbole	Nom en français	Nom en anglais
+&	ET bit à bit	Bitwise AND
+`	`	OU bit à bit
+^	OU exclusif bit à bit	Bitwise XOR
+~	NON bit à bit	Bitwise NOT
+<<	Décalage à gauche	Left shift
+>>	Décalage à droite	Right shift
+7. Symboles Divers
+Symbole	Nom en français	Nom en anglais
+.	Point	Dot / Period
+,	Virgule	Comma
+:	Deux-points	Colon
+;	Point-virgule	Semicolon
+#	Dièse / Hashtag	Hash / Pound sign
+@	Arobase	At sign
+?	Point d’interrogation	Question mark
+\	Antislash	Backslash
+/	Barre oblique	Forward slash
+"	Guillemets doubles	Double quotes
+'	Apostrophe / Guillemets simples	Single quotes
+`	Backtick / Accent grave	Backtick
+8. Caractères d’Échappement
+Symbole	Nom en français	Nom en anglais
+\n	Nouvelle ligne	New line
+\t	Tabulation	Tab
+\r	Retour chariot	Carriage return
+\b	Retour arrière	Backspace
+\f	Saut de page	Form feed
+9. Opérateurs Divers
+Symbole	Nom en français	Nom en anglais
+=>	Flèche (Fonction fléchée)	Arrow (Arrow function)
+::	Opérateur de résolution de portée	Scope resolution operator
+??	Opérateur de fusion null	Null coalescing operator
+10. Commentaires en Programmation
+Symbole	Nom en français	Nom en anglais
+//	Commentaire sur une ligne	Single-line comment
+/* */	Commentaire multi-lignes	Multi-line comment

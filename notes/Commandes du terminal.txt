@@ -1,0 +1,9 @@
+Commandes du terminal
+
+1. Lancer le projet
+ng serve
+
+
+2. Ouvrir dans une porte spécifique (porte à choisir): 
+ng serve --port 4201
+

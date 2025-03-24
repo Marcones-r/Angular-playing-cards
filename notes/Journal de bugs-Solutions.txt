@@ -1,0 +1,12 @@
+Journal de bugs :
+
+20/03/25 :
+
+ Dans ce code : 
+export class PlyingCardComponent {
+  @Input() monster: Monster = new Monster();
+}
+
+Le bug : la classe "Monster" était introuvable.
+L'origine : J'ai n'avais pas utiliser l'autocomplété  de vs code et par consequent la classe n'a pas était importer de manière automatique(import { Monster } from '../../models/monster.model';)
+La solution : réécrire  le nom de la classe et utilisé l'autocomplète de vs code avec l'indication du chemin de la classe.
